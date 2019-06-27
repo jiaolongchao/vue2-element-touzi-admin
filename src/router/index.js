@@ -11,7 +11,7 @@ import {
 const routes = [
 	{
 		path     : '/',
-		name     : '登录',
+		name     : '登录a',
 		hidden   : true,
 		meta:{requireAuth:false},
 		component: login

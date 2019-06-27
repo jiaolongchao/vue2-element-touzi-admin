@@ -21,6 +21,8 @@ const routes = [
 
 
 
+//suipingxian分支做出的改动
+
 export default new Router({
 	routes,
 	strict: process.env.NODE_ENV !== 'production',

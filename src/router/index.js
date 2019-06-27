@@ -13,6 +13,7 @@ const routes = [
 		path     : '/',
 		name     : '登录',
 		hidden   : true,
+		meta:{requireAuth:true},
 		component: login
 	}
 	
